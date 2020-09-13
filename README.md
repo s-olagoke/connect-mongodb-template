@@ -1,0 +1,1 @@
+This a templates used in connecting to mongoDB and also have routes to a contact keeper application with CRUD functionality the main purpose of this template is to connect to mongoDB and not about the routes
